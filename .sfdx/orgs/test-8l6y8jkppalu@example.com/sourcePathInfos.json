@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522952791114,
+            "changeTime": 1522952791114,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522952791114,
+            "changeTime": 1522952791114,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523281688893,
+            "changeTime": 1523281688893,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522952791115,
+            "changeTime": 1522952791115,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523281688896,
+            "changeTime": 1523281688896,
+            "contentHash": "f689eef2869ed3dfefc3019c4d9e35b6a13368be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\classes\\CCPM_testApex.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\classes\\CCPM_testApex.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 67,
+            "modifiedTime": 1523281688897,
+            "changeTime": 1523281688897,
+            "contentHash": "78e6ae22950f4a44dd244432a9c3ea7cf8f1f1ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\classes\\CCPM_testApex.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp\\force-app\\main\\default\\classes\\CCPM_testApex.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1523281688895,
+            "changeTime": 1523281688895,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\parasshah4\\Github\\sfdxdemo\\demoApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523281118297,
+            "changeTime": 1523281118297,
+            "contentHash": "f0104de975dc524ccedf07231c03fbca11880937",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
